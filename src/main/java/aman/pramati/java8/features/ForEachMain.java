@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.function.Consumer;
 
+// First Java Features to explore
 public class ForEachMain {
 
 	public static void main(String[] args) {
